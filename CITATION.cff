@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the code and the Kaggle dataset separately."
+title: "NYC Airbnb Listing Data Analysis: reproducibility refresh"
+version: 1.0.0
+authors:
+  - family-names: Raval
+    given-names: Priyank
+license: MIT
+type: software
+repository-code: https://github.com/ravalpriyankm/New-York-City-Airbnb-Analytics-Dataset
+url: https://www.kaggle.com/code/priyankraval/airbnb-data-analytics-final-project-ipynb
+abstract: "A 2026 reproducibility refresh of Priyank Raval's original Kaggle NYC Airbnb EDA notebook, using the separately sourced Airbnb Open Data dataset."
+keywords:
+  - airbnb
+  - kaggle
+  - exploratory-data-analysis
+  - reproducibility
+

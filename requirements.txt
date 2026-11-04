@@ -1,0 +1,3 @@
+# Use pip install -e . for the Python package and CLI.
+pandas>=2.0,<3.0
+matplotlib>=3.7,<4.0

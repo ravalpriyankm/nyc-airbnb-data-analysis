@@ -1,0 +1,81 @@
+id,NAME,host name,neighbourhood group,neighbourhood,room type,price,service fee,minimum nights,availability 365,cancellation_policy,number of reviews,Construction year
+1,FICTIONAL sample listing 1,SYNTHETIC HOST,Brooklyn,Demo district 0,Entire home/apt,$55.00,$6.60,1,0,strict,0,1950
+2,FICTIONAL sample listing 2,SYNTHETIC HOST,Queens,Demo district 1,Shared room,$86.00,$10.32,2,17,moderate,13,1951
+3,FICTIONAL sample listing 3,SYNTHETIC HOST,Staten Island,Demo district 2,Private room,$117.00,$14.04,3,34,flexible,26,1952
+4,FICTIONAL sample listing 4,SYNTHETIC HOST,Manhattan,Demo district 3,Entire home/apt,$188.00,$22.56,4,51,strict,39,1953
+5,FICTIONAL sample listing 5,SYNTHETIC HOST,Bronx,Demo district 4,Shared room,$179.00,$21.48,5,68,moderate,52,1954
+6,FICTIONAL sample listing 6,SYNTHETIC HOST,Brooklyn,Demo district 5,Private room,$210.00,$25.20,6,85,flexible,65,1955
+7,FICTIONAL sample listing 7,SYNTHETIC HOST,Queens,Demo district 6,Entire home/apt,$241.00,$28.92,7,102,strict,78,1956
+8,FICTIONAL sample listing 8,SYNTHETIC HOST,Staten Island,Demo district 7,Shared room,$82.00,$9.84,8,119,moderate,91,1957
+9,FICTIONAL sample listing 9,SYNTHETIC HOST,Manhattan,Demo district 8,Private room,$153.00,$18.36,9,136,flexible,4,1958
+10,FICTIONAL sample listing 10,SYNTHETIC HOST,Bronx,Demo district 9,Entire home/apt,$144.00,$17.28,10,153,strict,17,1959
+11,FICTIONAL sample listing 11,SYNTHETIC HOST,Brooklyn,Demo district 10,Shared room,$175.00,$21.00,11,170,moderate,30,1960
+12,FICTIONAL sample listing 12,SYNTHETIC HOST,Queens,Demo district 0,Private room,$206.00,$24.72,12,187,flexible,43,1961
+13,FICTIONAL sample listing 13,SYNTHETIC HOST,Staten Island,Demo district 1,Entire home/apt,$237.00,$28.44,13,204,strict,56,1962
+14,FICTIONAL sample listing 14,SYNTHETIC HOST,Manhattan,Demo district 2,Shared room,$118.00,$14.16,14,221,moderate,69,1963
+15,FICTIONAL sample listing 15,SYNTHETIC HOST,Bronx,Demo district 3,Private room,$109.00,$13.08,15,238,flexible,82,1964
+16,FICTIONAL sample listing 16,SYNTHETIC HOST,Brooklyn,Demo district 4,Entire home/apt,$140.00,$16.80,1,255,strict,95,1965
+17,FICTIONAL sample listing 17,SYNTHETIC HOST,Queens,Demo district 5,Shared room,$171.00,$20.52,2,272,moderate,8,1966
+18,FICTIONAL sample listing 18,SYNTHETIC HOST,Staten Island,Demo district 6,Private room,$202.00,$24.24,3,289,flexible,21,1967
+19,FICTIONAL sample listing 19,SYNTHETIC HOST,Manhattan,Demo district 7,Entire home/apt,$273.00,$32.76,4,306,strict,34,1968
+20,FICTIONAL sample listing 20,SYNTHETIC HOST,Bronx,Demo district 8,Shared room,$74.00,$8.88,5,323,moderate,47,1969
+21,FICTIONAL sample listing 21,SYNTHETIC HOST,Brooklyn,Demo district 9,Private room,$105.00,$12.60,6,340,flexible,60,1970
+22,FICTIONAL sample listing 22,SYNTHETIC HOST,Queens,Demo district 10,Entire home/apt,$136.00,$16.32,7,357,strict,73,1971
+23,FICTIONAL sample listing 23,SYNTHETIC HOST,Staten Island,Demo district 0,Shared room,$167.00,$20.04,8,8,moderate,86,1972
+24,FICTIONAL sample listing 24,SYNTHETIC HOST,Manhattan,Demo district 1,Private room,$238.00,$28.56,9,25,flexible,99,1973
+25,FICTIONAL sample listing 25,SYNTHETIC HOST,Bronx,Demo district 2,Entire home/apt,$229.00,$27.48,10,42,strict,12,1974
+26,FICTIONAL sample listing 26,SYNTHETIC HOST,Brooklyn,Demo district 3,Shared room,$70.00,$8.40,11,59,moderate,25,1975
+27,FICTIONAL sample listing 27,SYNTHETIC HOST,Queens,Demo district 4,Private room,$101.00,$12.12,12,76,flexible,38,1976
+28,FICTIONAL sample listing 28,SYNTHETIC HOST,Staten Island,Demo district 5,Entire home/apt,$132.00,$15.84,13,93,strict,51,1977
+29,FICTIONAL sample listing 29,SYNTHETIC HOST,Manhattan,Demo district 6,Shared room,$203.00,$24.36,14,110,moderate,64,1978
+30,FICTIONAL sample listing 30,SYNTHETIC HOST,Bronx,Demo district 7,Private room,$194.00,$23.28,15,127,flexible,77,1979
+31,FICTIONAL sample listing 31,SYNTHETIC HOST,Brooklyn,Demo district 8,Entire home/apt,$225.00,$27.00,1,144,strict,90,1980
+32,FICTIONAL sample listing 32,SYNTHETIC HOST,Queens,Demo district 9,Shared room,$66.00,$7.92,2,161,moderate,3,1981
+33,FICTIONAL sample listing 33,SYNTHETIC HOST,Staten Island,Demo district 10,Private room,$97.00,$11.64,3,178,flexible,16,1982
+34,FICTIONAL sample listing 34,SYNTHETIC HOST,Manhattan,Demo district 0,Entire home/apt,$168.00,$20.16,4,195,strict,29,1983
+35,FICTIONAL sample listing 35,SYNTHETIC HOST,Bronx,Demo district 1,Shared room,$159.00,$19.08,5,212,moderate,42,1984
+36,FICTIONAL sample listing 36,SYNTHETIC HOST,Brooklyn,Demo district 2,Private room,$190.00,$22.80,6,229,flexible,55,1985
+37,FICTIONAL sample listing 37,SYNTHETIC HOST,Queens,Demo district 3,Entire home/apt,$221.00,$26.52,7,246,strict,68,1986
+38,FICTIONAL sample listing 38,SYNTHETIC HOST,Staten Island,Demo district 4,Shared room,$62.00,$7.44,8,263,moderate,81,1987
+39,FICTIONAL sample listing 39,SYNTHETIC HOST,Manhattan,Demo district 5,Private room,$133.00,$15.96,9,280,flexible,94,1988
+40,FICTIONAL sample listing 40,SYNTHETIC HOST,Bronx,Demo district 6,Entire home/apt,$124.00,$14.88,10,297,strict,7,1989
+41,FICTIONAL sample listing 41,SYNTHETIC HOST,Brooklyn,Demo district 7,Shared room,$155.00,$18.60,11,314,moderate,20,1990
+42,FICTIONAL sample listing 42,SYNTHETIC HOST,Queens,Demo district 8,Private room,$186.00,$22.32,12,331,flexible,33,1991
+43,FICTIONAL sample listing 43,SYNTHETIC HOST,Staten Island,Demo district 9,Entire home/apt,$217.00,$26.04,13,348,strict,46,1992
+44,FICTIONAL sample listing 44,SYNTHETIC HOST,Manhattan,Demo district 10,Shared room,$98.00,$11.76,14,365,moderate,59,1993
+45,FICTIONAL sample listing 45,SYNTHETIC HOST,Bronx,Demo district 0,Private room,$89.00,$10.68,15,16,flexible,72,1994
+46,FICTIONAL sample listing 46,SYNTHETIC HOST,Brooklyn,Demo district 1,Entire home/apt,$120.00,$14.40,1,33,strict,85,1995
+47,FICTIONAL sample listing 47,SYNTHETIC HOST,Queens,Demo district 2,Shared room,$151.00,$18.12,2,50,moderate,98,1996
+48,FICTIONAL sample listing 48,SYNTHETIC HOST,Staten Island,Demo district 3,Private room,$182.00,$21.84,3,67,flexible,11,1997
+49,FICTIONAL sample listing 49,SYNTHETIC HOST,Manhattan,Demo district 4,Entire home/apt,$253.00,$30.36,4,84,strict,24,1998
+50,FICTIONAL sample listing 50,SYNTHETIC HOST,Bronx,Demo district 5,Shared room,$244.00,$29.28,5,101,moderate,37,1999
+51,FICTIONAL sample listing 51,SYNTHETIC HOST,Brooklyn,Demo district 6,Private room,$85.00,$10.20,6,118,flexible,50,2000
+52,FICTIONAL sample listing 52,SYNTHETIC HOST,Queens,Demo district 7,Entire home/apt,$116.00,$13.92,7,135,strict,63,2001
+53,FICTIONAL sample listing 53,SYNTHETIC HOST,Staten Island,Demo district 8,Shared room,$147.00,$17.64,8,152,moderate,76,2002
+54,FICTIONAL sample listing 54,SYNTHETIC HOST,Manhattan,Demo district 9,Private room,$218.00,$26.16,9,169,flexible,89,2003
+55,FICTIONAL sample listing 55,SYNTHETIC HOST,Bronx,Demo district 10,Entire home/apt,$209.00,$25.08,10,186,strict,2,2004
+56,FICTIONAL sample listing 56,SYNTHETIC HOST,Brooklyn,Demo district 0,Shared room,$240.00,$28.80,11,203,moderate,15,2005
+57,FICTIONAL sample listing 57,SYNTHETIC HOST,Queens,Demo district 1,Private room,$81.00,$9.72,12,220,flexible,28,2006
+58,FICTIONAL sample listing 58,SYNTHETIC HOST,Staten Island,Demo district 2,Entire home/apt,$112.00,$13.44,13,237,strict,41,2007
+59,FICTIONAL sample listing 59,SYNTHETIC HOST,Manhattan,Demo district 3,Shared room,$183.00,$21.96,14,254,moderate,54,2008
+60,FICTIONAL sample listing 60,SYNTHETIC HOST,Bronx,Demo district 4,Private room,$174.00,$20.88,15,271,flexible,67,2009
+61,FICTIONAL sample listing 61,SYNTHETIC HOST,Brooklyn,Demo district 5,Entire home/apt,$205.00,$24.60,1,288,strict,80,2010
+62,FICTIONAL sample listing 62,SYNTHETIC HOST,Queens,Demo district 6,Shared room,$236.00,$28.32,2,305,moderate,93,2011
+63,FICTIONAL sample listing 63,SYNTHETIC HOST,Staten Island,Demo district 7,Private room,$77.00,$9.24,3,322,flexible,6,2012
+64,FICTIONAL sample listing 64,SYNTHETIC HOST,Manhattan,Demo district 8,Entire home/apt,$148.00,$17.76,4,339,strict,19,2013
+65,FICTIONAL sample listing 65,SYNTHETIC HOST,Bronx,Demo district 9,Shared room,$139.00,$16.68,5,356,moderate,32,2014
+66,FICTIONAL sample listing 66,SYNTHETIC HOST,Brooklyn,Demo district 10,Private room,$170.00,$20.40,6,7,flexible,45,2015
+67,FICTIONAL sample listing 67,SYNTHETIC HOST,Queens,Demo district 0,Entire home/apt,$201.00,$24.12,7,24,strict,58,2016
+68,FICTIONAL sample listing 68,SYNTHETIC HOST,Staten Island,Demo district 1,Shared room,$232.00,$27.84,8,41,moderate,71,2017
+69,FICTIONAL sample listing 69,SYNTHETIC HOST,Manhattan,Demo district 2,Private room,$113.00,$13.56,9,58,flexible,84,2018
+70,FICTIONAL sample listing 70,SYNTHETIC HOST,Bronx,Demo district 3,Entire home/apt,$104.00,$12.48,10,75,strict,97,2019
+71,FICTIONAL sample listing 71,SYNTHETIC HOST,Brooklyn,Demo district 4,Shared room,$135.00,$16.20,11,92,moderate,10,1950
+72,FICTIONAL sample listing 72,SYNTHETIC HOST,Queens,Demo district 5,Private room,$166.00,$19.92,12,109,flexible,23,1951
+73,FICTIONAL sample listing 73,SYNTHETIC HOST,Staten Island,Demo district 6,Entire home/apt,$197.00,$23.64,13,126,strict,36,1952
+74,FICTIONAL sample listing 74,SYNTHETIC HOST,Manhattan,Demo district 7,Shared room,$268.00,$32.16,14,143,moderate,49,1953
+75,FICTIONAL sample listing 75,SYNTHETIC HOST,Bronx,Demo district 8,Private room,$69.00,$8.28,15,160,flexible,62,1954
+76,FICTIONAL sample listing 76,SYNTHETIC HOST,Brooklyn,Demo district 9,Entire home/apt,$100.00,$12.00,1,177,strict,75,1955
+77,FICTIONAL sample listing 77,SYNTHETIC HOST,Queens,Demo district 10,Shared room,$131.00,$15.72,2,194,moderate,88,1956
+78,FICTIONAL sample listing 78,SYNTHETIC HOST,Staten Island,Demo district 0,Private room,$162.00,$19.44,3,211,flexible,1,1957
+79,FICTIONAL sample listing 79,SYNTHETIC HOST,Manhattan,Demo district 1,Entire home/apt,$233.00,$27.96,4,228,strict,14,1958
+80,FICTIONAL sample listing 80,SYNTHETIC HOST,Bronx,Demo district 2,Shared room,$224.00,$26.88,5,245,moderate,27,1959

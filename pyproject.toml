@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nyc-airbnb-research-analysis"
+version = "1.0.0"
+description = "Reproducible, conservative exploratory analysis of the NYC Airbnb Open Data table"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+authors = [{name = "Priyank Raval"}]
+dependencies = ["pandas>=2.0,<3.0", "matplotlib>=3.7,<4.0"]
+classifiers = ["Programming Language :: Python :: 3", "License :: OSI Approved :: MIT License", "Topic :: Scientific/Engineering :: Information Analysis"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "nbformat>=5.7,<6"]
+
+[project.scripts]
+nyc-airbnb = "nyc_airbnb.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["nyc_airbnb*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
